@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ProfileDesignsV2.iml" filepath="$PROJECT_DIR$/ProfileDesignsV2.iml" group="ProfileDesignsV2" />
-      <module fileurl="file://$PROJECT_DIR$/app/ProfileDesignsV2-app.iml" filepath="$PROJECT_DIR$/app/ProfileDesignsV2-app.iml" group="ProfileDesignsV2/app" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Agritech_Android_App.iml" filepath="$PROJECT_DIR$/.idea/modules/Agritech_Android_App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Agritech_Android_App.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Agritech_Android_App.app.iml" />
     </modules>
   </component>
 </project>
